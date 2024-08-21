@@ -1,6 +1,4 @@
-interface IProps{
-title : string
-}
+
 
 const alert = () => {
    return (
