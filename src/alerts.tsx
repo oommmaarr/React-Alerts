@@ -2,9 +2,9 @@ interface IProps{
 title : string
 }
 
-const ${TM_FILENAME_BASE} = ({}:IProps) => {
+const alert = () => {
    return (
      <div>Alert</div>
   )
 }
-export default ${TM_FILENAME_BASE}
+export default alert
